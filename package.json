@@ -1,0 +1,16 @@
+{
+  "name": "text_editor",
+  "version": "1.0.0",
+  "description": "A cool text editor for coding and whatnot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "code",
+    "text",
+    "edit"
+  ],
+  "author": "Barr-code, Scully87",
+  "license": "ISC"
+}

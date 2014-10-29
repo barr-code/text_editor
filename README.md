@@ -1,0 +1,1 @@
+We're recreating the [Makers IDE text editor](https://github.com/makersacademy/makers-ide). Instead of JavaScript, though, we're using CoffeeScript.
