@@ -1,0 +1,1 @@
+function trim() { [native code] }
